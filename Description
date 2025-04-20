@@ -1,1 +1,29 @@
 
+ Technologies Used
+Python 3.x
+
+Pandas
+
+Numpy
+
+Scikit-learn
+
+Matplotlib
+
+📈 Model Details
+Algorithm Used: Logistic Regression
+
+Accuracy: Achieved high prediction accuracy on the test set
+
+Input: 60 sonar signal features
+
+Output: Prediction (Rock or Mine)
+
+📊 Dataset Details
+Features: 60 numeric attributes representing sonar signals.
+
+Target Labels:
+
+R = Rock
+
+M = Mine
